@@ -387,6 +387,10 @@ img.read:hover {
   max-height: 30px;
 }
 
+.membership-modal {
+  font-size: 90%;
+}
+
 .savings-sdw {
   max-height: 40px;
   background-color: rgba(0, 0, 0, 0.1);
@@ -462,6 +466,67 @@ img.read:hover {
 
 .career-hover:hover .career-img {
   opacity: 0.9;
+}
+
+.contact-header {
+  background: url(../images/soldier.png) center center no-repeat;
+  max-height: 220px;
+  background-size: cover;
+  border-bottom: 3px solid rgb(21, 84, 154);
+}
+
+.contact-img {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+
+.list-group-item {
+  font-size: medium;
+}
+
+.contact-img2 {
+  display: block;
+  width: 95%;
+  height: 300px;
+}
+
+.contact-text {
+  font-size: smaller;
+}
+
+.contact-text2 {
+  font-size: small;
+  font-weight: bolder;
+}
+
+.contact-text2 {
+  color: rgb(21, 84, 154);
+}
+
+.contact-text2:hover {
+  color: green;
+}
+
+.contact-line {
+  text-decoration: none;
+  color: navy;
+  font-weight: bold;
+}
+
+.contact-link:hover {
+  color: green;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.contact-link {
+  color: rgb(21, 84, 154);
+  font-weight: 100;
+  font-size: 95%;
 }
 
 @media screen and (max-width: 550px) {
