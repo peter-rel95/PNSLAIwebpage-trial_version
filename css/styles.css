@@ -614,7 +614,7 @@ img.read:hover {
     max-height: 20px;
   }
   .upd-hd {
-    max-width: 40vh;
+    max-width: 50vh;
     position: relative;
     overflow: hidden;
     cursor: pointer;
@@ -680,7 +680,7 @@ img.read:hover {
     font-size: smaller;
   }
   .announce-smd {
-    max-width: 40vh;
+    max-width: 55vh;
     align-items: center;
     position: relative;
     overflow: hidden;
@@ -731,8 +731,8 @@ img.read:hover {
     font-size: 95%;
   }
   .news-list .product-item .product {
-    width: 320px;
-    height: 400px;
+    width: 420px;
+    height: 430px;
     position: relative;
     overflow: hidden;
     cursor: pointer;
@@ -765,8 +765,8 @@ img.read:hover {
     cursor: pointer;
   }
   .publication-list .product-item .product {
-    width: 70%;
-    height: 320px;
+    width: 95%;
+    height: 430px;
     position: relative;
     overflow: hidden;
     cursor: pointer;
