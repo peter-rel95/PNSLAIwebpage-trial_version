@@ -277,8 +277,9 @@ img.read:hover {
 .contact-line{text-decoration:none; color:navy; font-weight:bold;}
 .contact-link:hover{color:green; text-decoration:none; font-weight:bolder;}
 .contact-link{color: rgb(21, 84, 154); font-weight: 100; font-size:95%;}
-
 //*** CONTACT PAGE_END ***/
+
+
 
 //<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>> // 
 //** SMALL DEVICE_CSS **//
@@ -323,7 +324,7 @@ td:nth-of-type(6):before {content: "Salary";}
     cursor: pointer}
 .home-sdw{background-size: cover;
     max-height: 20px;}
-.upd-hd{max-width:40vh;
+.upd-hd{max-width:50vh;
     position:relative;
     overflow: hidden;
     cursor: pointer}
@@ -364,7 +365,7 @@ td:nth-of-type(6):before {content: "Salary";}
     overflow: hidden;
     cursor: pointer}
 .home-try{font-size:smaller;}
-.announce-smd{max-width: 40vh;
+.announce-smd{max-width: 55vh;
     align-items: center;
     position: relative;
     overflow: hidden;
@@ -396,8 +397,8 @@ td:nth-of-type(6):before {content: "Salary";}
     cursor: pointer}
 .card-header {font-size: 95%;}
 .news-list .product-item .product{
-    width: 320px;
-    height: 400px;
+    width: 420px;
+    height: 430px;
     position: relative;
     overflow: hidden;
     cursor: pointer}
@@ -423,8 +424,8 @@ td:nth-of-type(6):before {content: "Salary";}
     overflow: hidden;
     cursor: pointer}
 .publication-list .product-item .product {
-    width: 70%;
-    height: 320px;
+    width: 95%;
+    height: 430px;
     position: relative;
     overflow: hidden;
     cursor: pointer}
