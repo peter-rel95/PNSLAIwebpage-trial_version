@@ -680,7 +680,7 @@ img.read:hover {
     font-size: smaller;
   }
   .announce-smd {
-    max-width: 55vh;
+    max-width: 45vh;
     align-items: center;
     position: relative;
     overflow: hidden;
