@@ -614,7 +614,7 @@ img.read:hover {
     max-height: 20px;
   }
   .upd-hd {
-    max-width: 50vh;
+    max-width: 45vh;
     position: relative;
     overflow: hidden;
     cursor: pointer;
