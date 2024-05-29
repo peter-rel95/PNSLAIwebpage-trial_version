@@ -200,7 +200,8 @@ img.read:hover {
 .mem-but:hover{color:yellow;background-color:rgb(21, 84, 154)}
 .membership-sdw {
     background-color: rgba(0, 0, 0, 0.1);
-    background-size: cover;max-height: 30px;}   
+    background-size: cover;max-height: 30px;}
+.membership-modal{font-size:90%;}
 //*** MEMBERSHIP PAGE_END ***//
 
 //*** SAVINGS PAGE ***// 
@@ -260,8 +261,24 @@ img.read:hover {
 //*** FEEDBACK PAGE ***// 
 //*** FEEDBACK PAGE_END ***//
 
-//*** OTHERS PAGE ***// 
-//*** OTHERS PAGE_END ***/
+//*** CONTACT PAGE ***// 
+.contact-header{
+    background: url(../images/soldier.png) 
+    center center no-repeat;max-height: 220px;
+    background-size: cover;border-bottom: 3px solid rgb(21, 84, 154)}
+.contact-img{opacity: 1;display: block;width:100%;height: 
+    auto;transition: .5s ease;backface-visibility: hidden;}
+.list-group-item{font-size:medium;}
+.contact-img2{display: block;width:95%;height:300px;}
+.contact-text{font-size:smaller;}
+.contact-text2{font-size:small; font-weight: bolder;}
+.contact-text2{color:rgb(21, 84, 154);}
+.contact-text2:hover{color:green;}
+.contact-line{text-decoration:none; color:navy; font-weight:bold;}
+.contact-link:hover{color:green; text-decoration:none; font-weight:bolder;}
+.contact-link{color: rgb(21, 84, 154); font-weight: 100; font-size:95%;}
+
+//*** CONTACT PAGE_END ***/
 
 //<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>> // 
 //** SMALL DEVICE_CSS **//
